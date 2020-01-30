@@ -22,5 +22,3 @@ def hello(array)
   end
   collection
 end
-
-hello(list) {|i| "Hello #{i} what's up?"}
