@@ -1,4 +1,3 @@
-list = ["ab", "cd", "ef"]
 
 
 def my_each(array)
