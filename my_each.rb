@@ -7,9 +7,10 @@ def my_each(array)
   yield(array[i])
   i += 1
 end
+array
 end
 
-my_each(list) {|i| "So I think #{i} is correct?"}
+
 
 
 def hello(array)
